@@ -1,5 +1,22 @@
 # Next-and-React-Links
 
+
+- - -
+
+### ROBIN WIERUCH
+> _GERMAN SOFTWARE ENGINEER FOR REACT.JS, NODE.JS AND GRAPHQL_
+
+* RECENT ARTICLES
+  + [How to learn React as a Library or Framework 2023](https://www.robinwieruch.de/learning-react/)
+  + [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter/)
+* GETTING STARTED TUTORIALS
+  + [How to learn React.js 2020](https://www.robinwieruch.de/learn-react-js/)
+  + [React Redux Tutorial for Beginners 2018](https://www.robinwieruch.de/react-redux-tutorial/)
+* READ MORE ABOUT REACT COMPONENT
+  + [React Cross Fade for Material UI](https://www.robinwieruch.de/react-cross-fade-material-ui-mui/)
+
+
+
 - - -
 
 ## YouTube React
@@ -37,6 +54,18 @@
   - _API Endpoints_
   - _Fetching Data_
   - _Layouts_
+
+- - -
+
+## [NEXT](https://nextjs.org/) - The React Framework for the Web
+> &emsp;_Used by some of the world's largest companies, Next.js enables you to create full-stack Web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for the fastest builds._
+
+
+
+
+
+
+
 
 
 - - -
