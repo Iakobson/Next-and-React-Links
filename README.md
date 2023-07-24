@@ -26,7 +26,10 @@
   + _Quickstart guide - using a plain TypeScript project and a local SQLite database file_
   + _create a project with Prisma from scratch_
 * Prisma with different tooling
-
+  + _The easiest way to work with a database in Next.js_
+  + _Fully type-safe ORM for NestJS_
+  + _Easy, type-safe database access in Express servers_
+ 
 
 
 
