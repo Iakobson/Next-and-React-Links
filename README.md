@@ -2,7 +2,7 @@
 
 - - -
 
-### YouTube
+## YouTube
 
 * [React Reconciliation](https://www.youtube.com/watch?v=A0W2n2azH5s)
   - **АйТи Синяк**
@@ -30,15 +30,25 @@
   + _Fully type-safe ORM for NestJS_
   + _Easy, type-safe database access in Express servers_
  
+#### [One-to-one relations](https://www.prisma.io/docs/concepts/components/prisma-schema/relations/one-to-one-relations)
+> _One-to-one (1-1) relations refer to relations where at most one record can be connected on both sides of the relation. _
 
+- - -
 
+## DOU
 
-
-
-
-
-
-
+### Создаем модульную архитектуру для большого React-приложения
+  * [стаття](https://dou.ua/forums/topic/36547/)
+    + _Абстрактная аналогия_
+    + _Модуль (Module)_
+    + _Сервисы (Services_
+    + _Хранилища (Stores)_
+    + _Адаптеры/Шлюзы (Adapters/Gateways)_
+    + _Внедрение зависимостей (Dependency Injection)_
+    + _Кейсы использования (Use cases)_
+    + _Модели (Models)_
+    + _Утилиты (Utils)_
+    + _Обработка ошибок/исключений (Exceptions handling)_
 
 
 
