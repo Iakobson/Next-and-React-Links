@@ -18,6 +18,33 @@
 
 - - -
 
+## Prisma
+> &emsp;_Next-generation Node.js and TypeScript ORM unlocks a new level of developer experience when working with databases thanks to its intuitive data model, automated migrations, type-safety & auto-completion._
+
+### [Get started](https://www.prisma.io/docs/getting-started)
+* Which tutorial is right for me?
+  + _Quickstart guide - using a plain TypeScript project and a local SQLite database file_
+  + _create a project with Prisma from scratch_
+* Prisma with different tooling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
