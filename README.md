@@ -2,7 +2,7 @@
 
 - - -
 
-## YouTube
+## YouTube React
 
 * [React Reconciliation](https://www.youtube.com/watch?v=A0W2n2azH5s)
   - **АйТи Синяк**
@@ -11,6 +11,47 @@
   - _настільки перевикористовуємо, щоб працює як для React Native так і для браузера;_
 * [React JS Быстрый Курс 2020](https://youtu.be/xJZa2_aldDs)
   - **Владилен Минин**
+* [React with Redux Toolkit Crash Course](https://www.youtube.com/watch?v=jR4fagDcvrc)
+  - **Laith Academy**
+  - https://github.com/harblaith7/Redux-Toolkit-Crash-Course
+  - _Redux Data Flow & Termanologies_
+  - _Redux Toolkit Slices & Store_
+  - _Updating & Viewing State_
+  - _Adding Another Slice_
+* [Formik (React Forms) Crash Course](https://www.youtube.com/watch?v=vJtyp1YmOpc)
+  - **Laith Academy**
+  - _ Initial State with useFormik_
+  - _Handling Submission_
+  - _Form Validation with Yup_
+
+
+- - -
+
+## YouTube Next
+
+* [Next.js Crash Course](https://www.youtube.com/watch?v=6HTs8HtZMt0)
+  - **Laith Academy**
+  - _Creating a Next App_
+  - _Components_
+  - _Pages_
+  - _API Endpoints_
+  - _Fetching Data_
+  - _Layouts_
+
+
+- - -
+
+## YouTube Testing
+
+* [React Testing Library Crash Course](https://www.youtube.com/watch?v=04BBgg8zgWo)
+  - **Laith Academy**
+  - _What is Testing and Why we Care_
+  - _RTL Philosophy_
+  - _Structure of Test_
+  - _Querying for Elements_
+  - _User Events and Browser Interactions_
+  - _Organizing Test Files_
+
 
 
 
