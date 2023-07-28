@@ -110,16 +110,18 @@
   + [Record Type in TypeScript](https://dmitripavlutin.com/typescript-record/): A Quick Intro
   + TypeScript [Function Overloading](https://dmitripavlutin.com/typescript-function-overloading/)
 
+- - -
 
+### Alex Sidorenko
+> &emsp;_write short visual React articles_
+
+  + [Optimizing React performance](https://alexsidorenko.com/blog/react-optimize-rerenders-without-refs-memo/) without refs and memo
+  + Why does [onClick={x()}](https://alexsidorenko.com/blog/onclick-too-many-re-renders/) causes "too many re-renders" error in React?
 
 - - -
 
 ## [NEXT](https://nextjs.org/) - The React Framework for the Web
 > &emsp;_Used by some of the world's largest companies, Next.js enables you to create full-stack Web applications by extending the latest React features, and integrating powerful Rust-based JavaScript tooling for the fastest builds._
-
-
-
-
 
 
 
@@ -137,11 +139,6 @@
   - _Querying for Elements_
   - _User Events and Browser Interactions_
   - _Organizing Test Files_
-
-
-
-
-
 
 - - -
 
@@ -179,6 +176,18 @@
 
 
 
+- - -
+
+## TypeScript Links
+
+- - -
+
+### GENESIS
+
+* [TypeScript](https://www.gen.tech/post/typescript-vid-hajpu-do-standartu-rozrobki): від хайпу до стандарту розробки
+
+
+- - -
 
 
 
