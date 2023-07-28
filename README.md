@@ -3,34 +3,6 @@
 
 - - -
 
-### Stack Diary
-> _Stories, for developers, designers, and makers._
-
-* Tutorials
-  + [React Router Cheat Sheet & Reference](https://stackdiary.com/tutorials/react-router-cheat-sheet-reference/)
-
-
-
-
-- - -
-
-### Robin Wieruch
-> _GERMAN SOFTWARE ENGINEER FOR REACT.JS, NODE.JS AND GRAPHQL_
-
-* RECENT ARTICLES
-  + [How to learn React as a Library or Framework 2023](https://www.robinwieruch.de/learning-react/)
-  + [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter/)
-* GETTING STARTED TUTORIALS
-  + [How to learn React.js 2020](https://www.robinwieruch.de/learn-react-js/)
-  + [React Redux Tutorial for Beginners 2018](https://www.robinwieruch.de/react-redux-tutorial/)
-  + [React Router 6 Tutorial 2021](https://www.robinwieruch.de/react-router/)
-* READ MORE ABOUT REACT COMPONENT
-  + [React Cross Fade for Material UI](https://www.robinwieruch.de/react-cross-fade-material-ui-mui/)
-
-
-
-- - -
-
 ## YouTube React
 
 * [React Reconciliation](https://www.youtube.com/watch?v=A0W2n2azH5s)
@@ -52,7 +24,20 @@
   - _ Initial State with useFormik_
   - _Handling Submission_
   - _Form Validation with Yup_
-
+* [React Router 6 – Tutorial for Beginners](https://www.youtube.com/watch?v=59IXY5IDrBA)
+  - **freeCodeCamp.org**
+  - _Page & Link Components_
+  - _Error Page_
+  - _Navbar, Nested Routes_
+  - _Shared Layout, Index Pages_
+  - _NavLink Component, Protected Route_
+* [React Router v6 in depth guide](https://www.youtube.com/watch?v=0cSVuySEB0A)
+  - **Hitesh Choudhary**
+  - _BrowserRouter, Routes and Route_
+  - _Navigate, Link_
+  - _Nested Routing, Outlet_
+  - _Route parameters, useParams, NavLink_
+  - _useNavigate and useLocation_
 
 - - -
 
@@ -66,6 +51,35 @@
   - _API Endpoints_
   - _Fetching Data_
   - _Layouts_
+
+
+
+- - -
+
+### Stack Diary
+> _Stories, for developers, designers, and makers._
+
+* Tutorials
+  + [React Router Cheat Sheet & Reference](https://stackdiary.com/tutorials/react-router-cheat-sheet-reference/)
+
+
+
+- - -
+
+### Robin Wieruch
+> _GERMAN SOFTWARE ENGINEER FOR REACT.JS, NODE.JS AND GRAPHQL_
+
+* RECENT ARTICLES
+  + [How to learn React as a Library or Framework 2023](https://www.robinwieruch.de/learning-react/)
+  + [How to start a React Project in 2023](https://www.robinwieruch.de/react-starter/)
+* GETTING STARTED TUTORIALS
+  + [How to learn React.js 2020](https://www.robinwieruch.de/learn-react-js/)
+  + [React Redux Tutorial for Beginners 2018](https://www.robinwieruch.de/react-redux-tutorial/)
+  + [React Router 6 Tutorial 2021](https://www.robinwieruch.de/react-router/)
+* READ MORE ABOUT REACT COMPONENT
+  + [React Cross Fade for Material UI](https://www.robinwieruch.de/react-cross-fade-material-ui-mui/)
+
+
 
 - - -
 
