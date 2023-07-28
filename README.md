@@ -1,6 +1,24 @@
 # Next-and-React-Links
 
 
+### [Start a New React Project](https://react.dev/learn/start-a-new-react-project#building-with-a-full-featured-framework)
+> _Frameworks provide features that most apps and sites eventually need, including routing, data fetching, and generating HTML._
+  + **Next.js**
+    - _it is maintained by Vercel_
+    - _deploy full-stack app to any Node.js or serverless hosting_
+    - _static app can be deployed to any static hosting_
+  + **Remix**
+    - _it is maintained by Shopify_
+    - _you need to pick your deployment target_
+    - _deploy full-stack app to any Node.js or serverless hosting by using adapter_
+  + **Gatsby**
+    - _is maintained by Netlify_
+    - _deploy static site to any static hosting_
+  + **Expo** (for native apps)
+    - _is maintained by Expo company_
+    - _lets you create universal Android, iOS, and web apps with truly native UIs_
+
+
 - - -
 
 ## YouTube React
@@ -38,6 +56,7 @@
   - _Nested Routing, Outlet_
   - _Route parameters, useParams, NavLink_
   - _useNavigate and useLocation_
+
 
 - - -
 
