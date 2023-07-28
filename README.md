@@ -79,6 +79,18 @@
 * READ MORE ABOUT REACT COMPONENT
   + [React Cross Fade for Material UI](https://www.robinwieruch.de/react-cross-fade-material-ui-mui/)
 
+- - -
+
+### Dmitri Pavlutin
+> &emsp;_helps developers understand Frontend technologies_
+
+* REACT ARTICLES
+  + [How to Write Comments in React](https://dmitripavlutin.com/react-comments/): The Good, the Bad and the Ugly
+  + [React forwardRef()](https://dmitripavlutin.com/react-forwardref/): How to Pass Refs to Child Components
+* TypeScript ARTICLES
+  + [Record Type in TypeScript](https://dmitripavlutin.com/typescript-record/): A Quick Intro
+  + TypeScript [Function Overloading](https://dmitripavlutin.com/typescript-function-overloading/)
+
 
 
 - - -
