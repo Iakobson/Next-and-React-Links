@@ -18,6 +18,45 @@
     - _is maintained by Expo company_
     - _lets you create universal Android, iOS, and web apps with truly native UIs_
 
+- - -
+
+### web-developer.in.ua
+
+* **Відео-уроки React:**
+  + [React простими словами by Shchepotin](https://web-developer.in.ua/assets/lessons/react/shchepotin/shchepotin.html)
+    - _КОМПОНЕНТИ ТА PROPS, УМОВНИЙ РЕНДЕР_
+    - _ЦИКЛ ТА КЛЮЧІ, ОБРОБКА ПОДІЙ_
+    - _ХУК useState, ХУК useEffect,  ХУК useCallback_
+    - _ХУК useMemo, ХУК useRef, ХУК useImperativeHandle_
+    - _CONTEXT ТА useContext, ХУК useLayoutEffect, ХУК useReducer_
+    - _ОПТИМІЗАЦІЯ, SUSPENSE ТА LAZY_
+    - _startTransition API. ХУК useTransition_
+    - _ІНДЕКС МАСИВА У РОЛІ KEY_
+    - _ОПТИМІЗАЦІЯ CONTEXT_
+  + [Курс React-1 для початківців від Vitalii Ruban](https://web-developer.in.ua/assets/lessons/react/ruban/ruban.html)
+    - _React та Інструменти для керування станом_
+    - _React та форми_
+    - _React, SPA та React-Router-Dom_
+    - _Аутентифікація для React_
+  + [Курс React-1 для початківців від Vitalii Ruban](https://web-developer.in.ua/assets/lessons/react/ruban2/ruban2.html)
+    - _React та Props - українською_
+    - _Керування станом_
+    - _Новий React Router Dom_
+    - _React, Redux_
+    - _UI бібліотеки в React_
+    - _Три помилки початківців_
+  + [Бібліотека React by Rudnyi](https://web-developer.in.ua/assets/lessons/react/rudnyi/js-rydnyi.html)
+    - _Повний курс по React_
+    - _Advanced React. _
+    - _Архітектура React додатку_
+* **Статті по темі React:**
+  + [Найкращі практики для створення надійних React-додатків](https://web-developer.in.ua/assets/articles/react/react-practices/react-practices.html)
+  + [13 поширених помилок, які слід уникати під час розробки React](https://web-developer.in.ua/assets/articles/react/react-mistakes/react-mistakes.html)
+  + [Кращі практики: створення високоякісних додатків](https://web-developer.in.ua/assets/articles/react/react-high/react-high.html)
+
+
+
+
 
 - - -
 
