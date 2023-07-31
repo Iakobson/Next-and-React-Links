@@ -216,14 +216,14 @@
 
 - - -
 
-### YouTube NEXT
+### YouTube TypeScript
 
 * [The Complete Guide to Immutability in TypeScript](https://levelup.gitconnected.com/the-complete-guide-to-immutability-in-typescript-99154f859fdb)
   - _Immutability in JavaScript_
   - _Immutability in TypeScript_
   - _Guidelines for Immutability_
 * [TypeScript для початківців](https://www.youtube.com/watch?v=ND-XaEQ4VSk)
-
+* [How To Create An Advanced Shopping Cart](https://www.youtube.com/watch?v=lATafp15HWA&t=4s) With React and TypeScript
 
 
 
