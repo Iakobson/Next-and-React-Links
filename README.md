@@ -109,6 +109,13 @@
   - _API Endpoints_
   - _Fetching Data_
   - _Layouts_
+* [Все про Next.JS - для початківців і не тільки](https://www.youtube.com/playlist?list=PLx9b8ngesbGEtYSFwh61bq1h7B4rmVqWT)
+  - _Огляд Next.JS за 16 хвилин_
+  - _Велике оновлення NextJS 13.4 - короткий огляд_
+  - _нові серверні компонети 13.4 - навіщо потрібні_
+
+
+
 
 
 
@@ -179,22 +186,6 @@
   - _User Events and Browser Interactions_
   - _Organizing Test Files_
 
-- - -
-
-## Prisma
-> &emsp;_Next-generation Node.js and TypeScript ORM unlocks a new level of developer experience when working with databases thanks to its intuitive data model, automated migrations, type-safety & auto-completion._
-
-### [Get started](https://www.prisma.io/docs/getting-started)
-* Which tutorial is right for me?
-  + _Quickstart guide - using a plain TypeScript project and a local SQLite database file_
-  + _create a project with Prisma from scratch_
-* Prisma with different tooling
-  + _The easiest way to work with a database in Next.js_
-  + _Fully type-safe ORM for NestJS_
-  + _Easy, type-safe database access in Express servers_
- 
-#### [One-to-one relations](https://www.prisma.io/docs/concepts/components/prisma-schema/relations/one-to-one-relations)
-> _One-to-one (1-1) relations refer to relations where at most one record can be connected on both sides of the relation. _
 
 - - -
 
@@ -219,18 +210,19 @@
 
 ## TypeScript Links
 
-- - -
-
-### GENESIS
+### ARTICLES
 
 * [TypeScript](https://www.gen.tech/post/typescript-vid-hajpu-do-standartu-rozrobki): від хайпу до стандарту розробки
 
-
 - - -
 
+### YouTube NEXT
 
-
-
+* [The Complete Guide to Immutability in TypeScript](https://levelup.gitconnected.com/the-complete-guide-to-immutability-in-typescript-99154f859fdb)
+  - _Immutability in JavaScript_
+  - _Immutability in TypeScript_
+  - _Guidelines for Immutability_
+* [TypeScript для початківців](https://www.youtube.com/watch?v=ND-XaEQ4VSk)
 
 
 
