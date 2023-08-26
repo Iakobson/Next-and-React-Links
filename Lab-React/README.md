@@ -31,6 +31,7 @@ Every time you want to add changes to the repository, ``eslint:fix`` and ``test:
 If command fails, your commit will be automatically aborted.\
 You will not be able to commit changes until you fix the error(s).
 
+
 ### Steps to add EsLint and Prettier to React project:
 * Step 1. For VSCode and WebStorm
   + Open your react project
@@ -61,6 +62,18 @@ You will not be able to commit changes until you fix the error(s).
   - _Every place in your code with code style problem should be highlighted_
   - _Hover on the problem and see what went wrong_
   - _You can fix separate problem by clicking ESLint:_ `Fix 'prettier/prettier`
+  - _You can run `npm run eslint` to see all app code style errors in the terminal_
+
+
+### Instruction for test writing
+> _You should never use real data from the server for testing. Use only mocked data._
+
+
+
+
+
+
+
 
 
 
