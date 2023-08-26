@@ -31,6 +31,21 @@ Every time you want to add changes to the repository, ``eslint:fix`` and ``test:
 If command fails, your commit will be automatically aborted.\
 You will not be able to commit changes until you fix the error(s).
 
+### Steps to add EsLint and Prettier to React project:
+* Step 1. For VSCode and WebStorm
+  + Open your react project
+  + Install Eslint as development dependence
+    - ``npm i eslint --save-dev``
+  + Initiate Eslint in your project:
+    - ``eslint --init``
+    - _Answer the questions_
+    - _ESLINT_instruction.md_
+  + Now you have eslintrc.json file.
+    - _It may take a while for the eslintrc.json file to appear in the project folder_
+    - _Replace the code in the eslintrc.json file_
+  + Run
+    - ``npm i -D eslint-config-prettier eslint-plugin-prettier prettier``
+* Step 2. If you use VSCode:
 
 
 
