@@ -46,6 +46,23 @@ You will not be able to commit changes until you fix the error(s).
   + Run
     - ``npm i -D eslint-config-prettier eslint-plugin-prettier prettier``
 * Step 2. If you use VSCode:
+  + Install EsLint plugin
+  + Change your VScode settings
+    - _To open user setting config press F1, enter 'settings' and choose 'Open User Settings'_
+    - _Enter 'eslint' in the search panel._
+* Step 3. For VSCode and WebStorm
+  + Add script to package.json file
+    - ```
+        "eslint": "eslint --ext .js --ext .jsx src",
+        "eslint:fix": "eslint --fix --ext .js --ext .jsx src"
+      ```
+
+**Result:**
+  - _Every place in your code with code style problem should be highlighted_
+  - _Hover on the problem and see what went wrong_
+  - _You can fix separate problem by clicking ESLint:_ `Fix 'prettier/prettier`
+
+
 
 
 
