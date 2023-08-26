@@ -5,7 +5,7 @@
 > [Husky](https://github.com/typicode/husky) improves your commits and more [🐶 woof!](https://typicode.github.io/husky/)
 > _You can use it to lint your commit messages, run tests, lint code, etc... when you commit or push. Husky supports all Git hooks._
 
-Follow this instruction:
+**Follow this instruction:**
 1. Open your React project;
 2. Install husky:
     - ``npm install husky --save-dev``
@@ -26,8 +26,10 @@ Follow this instruction:
 5. Run (to add a command to a hook):
     - ``npx husky add .husky/pre-commit "npm run prepublish"``
 
-
-
+**Result:**\
+Every time you want to add changes to the repository, ``eslint:fix`` and ``test:nowatch`` commands will be run.\
+If command fails, your commit will be automatically aborted.\
+You will not be able to commit changes until you fix the error(s).
 
 
 
