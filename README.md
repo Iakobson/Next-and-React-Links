@@ -53,6 +53,7 @@
   + [Найкращі практики для створення надійних React-додатків](https://web-developer.in.ua/assets/articles/react/react-practices/react-practices.html)
   + [13 поширених помилок, які слід уникати під час розробки React](https://web-developer.in.ua/assets/articles/react/react-mistakes/react-mistakes.html)
   + [Кращі практики: створення високоякісних додатків](https://web-developer.in.ua/assets/articles/react/react-high/react-high.html)
+  + [Шляхи стилізації компонентів](https://medium.com/@jstify.community/%D1%88%D0%BB%D1%8F%D1%85%D0%B8-%D1%81%D1%82%D0%B8%D0%BB%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%97-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D1%96%D0%B2-9318eaf8deb)
 
 
 
@@ -210,9 +211,14 @@
 
 ## TypeScript Links
 
+_Typescript — це суперсет до JavaScript. Створена і зарелізана в 2012 році компанією Microsoft. Основним козирем мови є статична типізація, яка дозволяє JS код бути більш надійним._
+
+
 ### ARTICLES
 
 * [TypeScript](https://www.gen.tech/post/typescript-vid-hajpu-do-standartu-rozrobki): від хайпу до стандарту розробки
+* [Interface vs Type різниця](https://medium.com/@jstify.community/interface-vs-type-b49b8403bb9c)
+* [Підвищуємо якість коду за допомогою TypeScript, ESLint та Prettier.](https://medium.com/@jstify.community/%D0%BF%D1%96%D0%B4%D0%B2%D0%B8%D1%89%D1%83%D1%94%D0%BC%D0%BE-%D1%8F%D0%BA%D1%96%D1%81%D1%82%D1%8C-%D0%BA%D0%BE%D0%B4%D1%83-%D0%B7%D0%B0-%D0%B4%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D0%B3%D0%BE%D1%8E-typescript-eslint-%D1%82%D0%B0-prettier-f50493eba0bd)
 
 - - -
 
@@ -227,4 +233,5 @@
 
 
 
+TypeScript став потужною мовою в сучасному середовищі розробки, пропонуючи розробникам ряд переваг для підвищення продуктивності, якості коду та зручності обслуговування. Використовуючи TypeScript, розробники можуть завчасно виявляти помилки, покращувати співпрацю та створювати більш надійні програми. 
 
