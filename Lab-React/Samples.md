@@ -1,5 +1,7 @@
 ## GitLab students
 
+### Part 1
+
 * https://gitlab.com/svitlana-p
   + [React courses-app 1-2-3]
   + [Angular_CLI]
@@ -13,6 +15,9 @@
   + [Node-1-2]
   + [Project Manager Angular]
   + [angular_HW]
+
+### Part 2
+
 * https://gitlab.com/roman_hrytsyshyn
   + [angular-cli-homework]
   + [node-js-lab HW-1-2-3]
@@ -28,6 +33,26 @@
 * https://gitlab.com/LagodaAnna
   + [Node-2-3]
   + [Angular_CLI]
+* https://gitlab.com/alina.yermolenko27
+  + [Node-1-2-3]
+  + [angular_HW]
+  + [HW2Lab]
+* https://gitlab.com/dvpashnev
+  + [Node-1-2-3]
+  + [Angular_CLI]
+  + [Task Control App]
+* https://gitlab.com/kseniia.yermakova
+  + [Node-1-2-3]
+  + [Angular]
+  + [Todo]
+* https://gitlab.com/daria.sharova
+  + [Node-1-2-3]
+  + [Angular_CLI]
+  + [angular_HW]
+
+
+
+
 
 
 
