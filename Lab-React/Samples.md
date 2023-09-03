@@ -19,6 +19,13 @@
   + [react-HW1]
   + [Node-1-2-3]
   + [Angular_CLI]
+* https://gitlab.com/marynahenba
+  + [React Courses App]
+  + [Node-1-2]
+  + [NodeJS_shippingService]
+  + [WeatherApp React]
+  + [Superheroes_Front_Back]
+
 
 ### Part 2
 
@@ -65,9 +72,16 @@
   + [Angular_CLI]
   + [angular-project-api]
   + [angular_HW]
-* 
-
-
+* https://gitlab.com/rmzvr
+  + [Node-2-3 Full]
+* https://gitlab.com/troyanovskaya2003
+  + [Node-1-2-3]
+* https://gitlab.com/adriana.sukhanova
+  + [Node-1-2-3]
+  + [ng-task-control-app]
+* https://gitlab.com/andriikylymnyk
+  + [Node-1-2-3]
+  + [Angular_CLI]
 
 
 
