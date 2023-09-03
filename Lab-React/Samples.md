@@ -15,6 +15,10 @@
   + [Node-1-2]
   + [Project Manager Angular]
   + [angular_HW]
+* https://gitlab.com/Lingsat
+  + [react-HW1]
+  + [Node-1-2-3]
+  + [Angular_CLI]
 
 ### Part 2
 
@@ -49,9 +53,19 @@
   + [Node-1-2-3]
   + [Angular_CLI]
   + [angular_HW]
-
-
-
+* https://gitlab.com/yevhen_nesterenko
+  + [Node-1-2-3]
+  + [task-control-angular]
+  + [angular_HW]
+* https://gitlab.com/andriikylymnyk
+  + [Node-1-2-3]
+  + [Angular_CLI]
+* https://gitlab.com/Gepuy
+  + [Node-1-2-3]
+  + [Angular_CLI]
+  + [angular-project-api]
+  + [angular_HW]
+* 
 
 
 
