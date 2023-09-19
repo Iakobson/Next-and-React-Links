@@ -29,10 +29,20 @@
 
 ### Part 2
 
-* https://gitlab.com/roman_hrytsyshyn
+* https://gitlab.com/rmzvr 🥑 🥕 🌽 🥦 🍆
+  + [Node-2-3 Full]
+* https://gitlab.com/Gepuy 🥑 🥕 🌽 🥦 
+  + [Node-1-2-3]
+  + [Angular_CLI]
+  + [angular-project-api]
+  + [angular_HW]
+* https://gitlab.com/roman_hrytsyshyn 🥑 🥕 🌽 🥦 🍆
   + [angular-cli-homework]
   + [node-js-lab HW-1-2-3]
   + [ExpressJS Task Manager]
+* https://gitlab.com/andriikylymnyk 🥑 🥕 🌽 🥦
+  + [Node-1-2-3]
+  + [Angular_CLI]
 * https://gitlab.com/AndriiSokyrko
   + [Node-1-2-3]
   + [Angular-structure-components]
@@ -64,24 +74,7 @@
   + [Node-1-2-3]
   + [task-control-angular]
   + [angular_HW]
-* https://gitlab.com/andriikylymnyk
-  + [Node-1-2-3]
-  + [Angular_CLI]
-* https://gitlab.com/Gepuy
-  + [Node-1-2-3]
-  + [Angular_CLI]
-  + [angular-project-api]
-  + [angular_HW]
-* https://gitlab.com/rmzvr
-  + [Node-2-3 Full]
-* https://gitlab.com/troyanovskaya2003
-  + [Node-1-2-3]
-* https://gitlab.com/adriana.sukhanova
-  + [Node-1-2-3]
-  + [ng-task-control-app]
-* https://gitlab.com/andriikylymnyk
-  + [Node-1-2-3]
-  + [Angular_CLI]
+
 
 
 
