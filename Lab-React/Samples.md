@@ -2,24 +2,16 @@
 
 ### Part 1
 
-* https://gitlab.com/svitlana-p
+* https://gitlab.com/svitlana-p 🥑 🥕 🌽 🥦 🍆
   + [React courses-app 1-2-3]
   + [Angular_CLI]
   + [Node HW-1-2-3]
-* https://gitlab.com/ihor161994
-  + [React_HW-1-2-3-4-5]
-  + [Angular_HW]
-  + [Node-1-2-3]
-* https://gitlab.com/o.iana
+* https://gitlab.com/o.iana 🥑 🥕 🌽 🥦
   + [React Courses App]
-  + [Node-1-2]
+  + [Node-1-2-3]
   + [Project Manager Angular]
   + [angular_HW]
-* https://gitlab.com/Lingsat
-  + [react-HW1]
-  + [Node-1-2-3]
-  + [Angular_CLI]
-* https://gitlab.com/marynahenba
+* https://gitlab.com/marynahenba 🥑 🥕 🌽 🥦
   + [React Courses App]
   + [Node-1-2]
   + [NodeJS_shippingService]
