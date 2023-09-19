@@ -43,38 +43,16 @@
 * https://gitlab.com/andriikylymnyk 🥑 🥕 🌽 🥦
   + [Node-1-2-3]
   + [Angular_CLI]
-* https://gitlab.com/AndriiSokyrko
+* https://gitlab.com/yevhen_nesterenko 🥑 🥕 🌽 🥦
   + [Node-1-2-3]
-  + [Angular-structure-components]
-* https://gitlab.com/aaandrevv
+  + [task-control-angular]
+  + [angular_HW]
+* https://gitlab.com/daria.sharova 🥑 🥕 🌽 🥦
+  + [Node-1-2-3]
+  + [Angular_CLI]
+  + [angular_HW]
+* https://gitlab.com/aaandrevv 🥑 🥕 🌽 🥦 🍆
   + [Node-1-2-3]
   + [Angular_CLI]
   + [Ng-ServerApp]
   + [Task Control angular App]
-* https://gitlab.com/LagodaAnna
-  + [Node-2-3]
-  + [Angular_CLI]
-* https://gitlab.com/alina.yermolenko27
-  + [Node-1-2-3]
-  + [angular_HW]
-  + [HW2Lab]
-* https://gitlab.com/dvpashnev
-  + [Node-1-2-3]
-  + [Angular_CLI]
-  + [Task Control App]
-* https://gitlab.com/kseniia.yermakova
-  + [Node-1-2-3]
-  + [Angular]
-  + [Todo]
-* https://gitlab.com/daria.sharova
-  + [Node-1-2-3]
-  + [Angular_CLI]
-  + [angular_HW]
-* https://gitlab.com/yevhen_nesterenko
-  + [Node-1-2-3]
-  + [task-control-angular]
-  + [angular_HW]
-
-
-
-
